@@ -1,6 +1,6 @@
 cask "uptimebar" do
-  version "1.1"
-  sha256 "178689b8a3cc6cc3cd6d6da0604ea76ebb3cf2f125b78ea081476cb995cf3d7c"
+  version "1.2"
+  sha256 "e9b9e1e706dc6e92f1b1264b2951885a604b465ff0050cec71e18d5f14825678"
 
   url "https://github.com/alcides/UptimeBar/releases/download/v#{version}/UptimeBar.zip"
   name "UptimeBar"
