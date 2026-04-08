@@ -1,6 +1,6 @@
 cask "upbar" do
-  version "1.3"
-  sha256 "96c6bf2a02629319c5e609b02c2ec6f0b0284748548202af6a47d07cf937c53e"
+  version "1.4"
+  sha256 "b15c17f299932fcb0e9f341d3805d714c65169ed97d062317e3042c90e46343d"
 
   url "https://github.com/alcides/upbar/releases/download/v#{version}/UpBar.zip"
   name "UpBar"
